@@ -1,0 +1,14 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+:root{
+  --index2: calc(1vh + 1vw);
+}
+.block1{
+  background-size: cover;
+  width: 1000px;
+  height: 1000px;
+  object-fit: fill;
+}
